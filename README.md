@@ -7,4 +7,4 @@ Escripts para exclusão de usuários.
 - `-blocked`: Incluir usuários bloqueados, valor padrão `True`
 - `-ssl`: Habilitar ssl, valor padrão `False`
 
-`python remove_users.py -burl api.senior.com.br/platform/user -tk c84da3dbxxxxxxxxx -sz 100 -blocked True`
+`python remove_users.py -burl api.senior.com.br -tk c84da3dbxxxxxxxxx -sz 100 -blocked True`
